@@ -75,17 +75,17 @@
     "description": "Generic Sensors devices support. See: https://github.com/rzr/mozilla-iot-generic-sensors-adapter",
     "author": "Philippe Coval",
     "homepage": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter",
-    "version": "0.0.1",
-    "url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/releases/download/0.0.1/generic-sensors-adapter-0.0.1-linux-arm-v8.tgz",
+    "version": "0.0.2",
+    "url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/releases/download/0.0.2/generic-sensors-adapter-0.0.2-linux-arm-v8.tgz",
     "packages": {
       "linux-arm": {
-        "version": "0.0.1",
-        "url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/releases/download/0.0.1/generic-sensors-adapter-0.0.1-linux-arm-v8.tgz",
-        "checksum": "a862a9e580132c9d6ec2fd6182b43e32868ea4dfdbd385373f5ec94cae6d295b"
+        "version": "0.0.2",
+        "url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/releases/download/0.0.2/generic-sensors-adapter-0.0.2-linux-arm-v8.tgz",
+        "checksum": "67807f86af5a0cf1f344a9131c4ce40559f4c13c85eeeab734ad305057cfa2d6"
       }
     },
     "api": {
-      "min": 1,
+      "min": 2,
       "max": 2
     }
   },
